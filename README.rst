@@ -9,3 +9,6 @@ Installation:
 
 Disclaimer:
     Based on plugin by Yuri Feldman - http://www.vim.org/scripts/script.php?script_id=2937 - released on WTFPL.
+
+Illustration:
+    .. image:: http://github.com/KrzysztofUrban/vim-css-hex/wiki/vim-css-hex.png
