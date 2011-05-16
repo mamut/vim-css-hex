@@ -1,4 +1,6 @@
-_css-hex_
+===========
+css-hex
+===========
 
 Plugin for gvim that highlights hex codes with color they represent.
 
